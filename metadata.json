@@ -1,0 +1,8 @@
+{
+  "name": "MineSweeper Pro",
+  "description": "A polished, responsive Minesweeper game featuring Beginner, Intermediate, and Expert difficulties, live timer, flag mode, first-click safety, custom boards, and local high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
